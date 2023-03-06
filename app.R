@@ -9,7 +9,8 @@ source("code/functions/Standardize.R")
 source("code/functions/Cropping_F.R")
 #setwd(r'(C:\Users\00758120\Harper Adams University\George Wager - farm-data)')
 # install and load required packages for the session
-libs = c("shiny", "stringr", "openxlsx", "data.table", "readxl", "rgdal", "sf", "raster", "broom", "leaflet", "htmlwidgets")
+
+libs = c("stringr", "openxlsx", "data.table", "readxl", "rgdal", "sf", "raster", "broom", "leaflet", "htmlwidgets")
 PackageCheck(libs)
 
 # Location of source files
