@@ -1,0 +1,14 @@
+CropType,CropColor,CropYieldPalette
+unknown,#D6D6D6,
+other,#A4A4A4,
+bean,#61C074,ag_GrnYl
+maize,#BBDF5F,ag_GrnYl
+potato,#533600,Burg
+wheat,#802A07,Reds
+rye,#CA4B00,
+barley,#F48300,
+oat,#FFBB80,
+clover,#CFADE5,
+lucerne,#8A72BD,
+grass,#126429,
+osr,#E5D961,
