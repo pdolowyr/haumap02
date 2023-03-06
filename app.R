@@ -4,8 +4,7 @@
 
 # Setup -----------------------------------------------------------------
 #setwd("C:/Users/00758120/Documents/GitHub/haumap02")
-source("code/functions/PackageCheck_F.R")
-source("code/functions/Standardize.R")
+source("code/functions/Standardize_F.R")
 source("code/functions/Cropping_F.R")
 
 library("stringr")
