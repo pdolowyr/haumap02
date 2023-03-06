@@ -5,7 +5,10 @@ account: pdolowy
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8491899
-bundleId: 6922332
+bundleId: 6922389
 url: https://pdolowy.shinyapps.io/haumap02/
-when: 1678124895.57407
-lastSyncTime: 1678124895.5741
+when: 1678126047.82791
+lastSyncTime: 1678126047.82793
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data
