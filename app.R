@@ -7,11 +7,17 @@
 source("code/functions/PackageCheck_F.R")
 source("code/functions/Standardize.R")
 source("code/functions/Cropping_F.R")
-#setwd(r'(C:\Users\00758120\Harper Adams University\George Wager - farm-data)')
-# install and load required packages for the session
-# .libPaths(c(tempdir(), .libPaths()))
-libs = c("stringr", "openxlsx", "data.table", "readxl", "rgdal", "sf", "raster", "broom", "leaflet", "htmlwidgets")
-PackageCheck(libs, repos = "libs")
+
+library("stringr")
+library( "openxlsx")
+library("data.table")
+library("readxl")
+library("rgdal")
+library("sf")
+library("raster")
+library("broom")
+library("leaflet")
+library("htmlwidgets")
 
 # Location of source files
 shpdir <- paste0("data/harper-farm-boundaries") # shapefiles
